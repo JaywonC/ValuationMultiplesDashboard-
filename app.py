@@ -1,7 +1,6 @@
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # Set page config
 st.set_page_config(page_title="Valuation Dashboard", layout="centered")
